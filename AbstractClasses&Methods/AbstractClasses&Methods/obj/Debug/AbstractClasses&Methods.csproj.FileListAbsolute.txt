@@ -1,0 +1,8 @@
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A2\Code Solution\dcit318-assignment2-11293368\AbstractClasses&Methods\AbstractClasses&Methods\bin\Debug\AbstractClasses&Methods.exe.config
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A2\Code Solution\dcit318-assignment2-11293368\AbstractClasses&Methods\AbstractClasses&Methods\bin\Debug\AbstractClasses&Methods.exe
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A2\Code Solution\dcit318-assignment2-11293368\AbstractClasses&Methods\AbstractClasses&Methods\bin\Debug\AbstractClasses&Methods.pdb
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A2\Code Solution\dcit318-assignment2-11293368\AbstractClasses&Methods\AbstractClasses&Methods\obj\Debug\AbstractClasses&Methods.csproj.AssemblyReference.cache
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A2\Code Solution\dcit318-assignment2-11293368\AbstractClasses&Methods\AbstractClasses&Methods\obj\Debug\AbstractClasses&Methods.csproj.CoreCompileInputs.cache
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A2\Code Solution\dcit318-assignment2-11293368\AbstractClasses&Methods\AbstractClasses&Methods\obj\Debug\AbstractClasses&Methods.exe
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A2\Code Solution\dcit318-assignment2-11293368\AbstractClasses&Methods\AbstractClasses&Methods\obj\Debug\AbstractClasses&Methods.pdb
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A2\Code Solution\dcit318-assignment2-11293368\AbstractClasses&Methods\AbstractClasses&Methods\obj\Debug\AbstractClasses&Methods.exe.config
