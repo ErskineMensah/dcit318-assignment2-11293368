@@ -1,0 +1,8 @@
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A2\Code Solution\dcit318-assignment2-11293368\Inheritance&MethodOverriding\Inheritance&MethodOverriding\bin\Debug\Inheritance&MethodOverriding.exe.config
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A2\Code Solution\dcit318-assignment2-11293368\Inheritance&MethodOverriding\Inheritance&MethodOverriding\bin\Debug\Inheritance&MethodOverriding.exe
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A2\Code Solution\dcit318-assignment2-11293368\Inheritance&MethodOverriding\Inheritance&MethodOverriding\bin\Debug\Inheritance&MethodOverriding.pdb
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A2\Code Solution\dcit318-assignment2-11293368\Inheritance&MethodOverriding\Inheritance&MethodOverriding\obj\Debug\Inheritance&MethodOverriding.csproj.AssemblyReference.cache
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A2\Code Solution\dcit318-assignment2-11293368\Inheritance&MethodOverriding\Inheritance&MethodOverriding\obj\Debug\Inheritance&MethodOverriding.csproj.CoreCompileInputs.cache
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A2\Code Solution\dcit318-assignment2-11293368\Inheritance&MethodOverriding\Inheritance&MethodOverriding\obj\Debug\Inheritance&MethodOverriding.exe
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A2\Code Solution\dcit318-assignment2-11293368\Inheritance&MethodOverriding\Inheritance&MethodOverriding\obj\Debug\Inheritance&MethodOverriding.pdb
+C:\Users\ERSKINE MENSAH\Desktop\DCIT 318 P II\Assignments\A2\Code Solution\dcit318-assignment2-11293368\Inheritance&MethodOverriding\Inheritance&MethodOverriding\obj\Debug\Inheritance&MethodOverriding.exe.config
